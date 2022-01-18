@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 拉一張椅子</title>
-    <link>https://ianjustin39.github.io/take-a-chair/categories/</link>
+    <link>http://take-a-chair.club/categories/</link>
     <description>Recent content in Categories on 拉一張椅子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ianjustin39.github.io/take-a-chair/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://take-a-chair.club/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
